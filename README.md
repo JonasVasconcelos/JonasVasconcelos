@@ -1,8 +1,9 @@
 ### Hello, World!
 
 - 📚 Fishing Engineer (2012) and PhD in Applied Statistics (2019);
-- 🔎 Researcher;
-- 📈 Data Analyst, Fisheries Statistician, and R language instructor;
+- 🔎 Researcher, Data Analyst, Fisheries Statistician;
+- 📈 R language instructor - [Estatisticamente Falando](https://www.instagram.com/estatisticamente_falando/);
+- 🌎 Speaking languages: Portuguese (native), English (intermediate), and Spanish (intermediate);
 - 👨‍💻 Software development student since 2022;
 - 🌱 I’m currently learning JavaScript, HTML and CSS;
 - 🐶🐱 Pet lover, 🕹️ Blockchain games player, and 🎧 Progressive rock fan.

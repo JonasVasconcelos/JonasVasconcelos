@@ -1,9 +1,11 @@
 ### Hello, World!
 
 - 📚 Fishing Engineer (2012) and PhD in Applied Statistics (2019);
+- 🔎 Researcher;
 - 📈 Data Analyst, Fisheries Statistician, and R language instructor;
 - 👨‍💻 Software development student since 2022;
 - 🌱 I’m currently learning JavaScript, HTML and CSS;
+- 🐶🐱 Pet lover, 🕹️ Blockchain games player, and 🎧 Progressive rock fan.
 
 
 <div align="center">

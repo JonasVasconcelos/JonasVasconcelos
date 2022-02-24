@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning JavaScript, HTML and CSS;
 
 
-<div align="center display: flex justify-content: center align-items: center">
+<div align="center display: flex justify-content: center align-items: center flex-direction: row">
   <a href="https://github.com/JonasVasconcelos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonasVasconcelos&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasVasconcelos&layout=compact&langs_count=7&theme=github_dark"/>

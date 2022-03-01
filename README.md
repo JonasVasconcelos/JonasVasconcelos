@@ -1,7 +1,8 @@
 ### Hello, World!
 
 - 📚 Fishing Engineer (2012) and PhD in Applied Statistics (2019);
-- 🔎 Researcher, Data Analyst, Fisheries Statistician;
+- 🔎 Researcher <a itemprop="sameAs" content="https://orcid.org/0000-0002-2134-2355" href="https://orcid.org/0000-0002-2134-2355" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a>
+, Data Analyst, Fisheries Statistician;
 - 📈 R language instructor - [Estatisticamente Falando](https://www.instagram.com/estatisticamente_falando/);
 - 🌎 Speaking languages: Portuguese (native), English (intermediate), and Spanish (intermediate);
 - 👨‍💻 Software development student since 2022;
@@ -21,3 +22,12 @@
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 </div>
+
+<h3> 🤝🏻 Find Me </h3>
+
+<p align="center">
+<a target="_blank" href="https://www.linkedin.com/in/jonas-vasconcelos-808882106/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a target="_blank" href="https://www.instagram.com/jvasconcelos23/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a target="_blank" href="http://lattes.cnpq.br/4784149077807044"><img alt="Lattes" src="https://img.shields.io/badge/%20-Lattes-blue?style=for-the-badge&logo=Lattes&logoColor=white"></a>
+<a target="_blank" href="https://www.researchgate.net/profile/Jonas-Vasconcelos"><img alt="ResearchGate" src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white"></a>
+</p>

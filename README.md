@@ -3,7 +3,7 @@
 - 📚 Fishing Engineer (2012) and PhD in Applied Statistics (2019);
 - 🔎 Researcher <a itemprop="sameAs" content="https://orcid.org/0000-0002-2134-2355" href="https://orcid.org/0000-0002-2134-2355" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a>
 , Data Analyst, Fisheries Statistician;
-- 📈 R language instructor - [Estatisticamente Falando](https://www.instagram.com/estatisticamente_falando/);
+- 📈 R language instructor;
 - 🌎 Speaking languages: Portuguese (native), English (intermediate), and Spanish (intermediate);
 - 👨‍💻 Software development student since 2022;
 - 🌱 I’m currently learning JavaScript, HTML and CSS;

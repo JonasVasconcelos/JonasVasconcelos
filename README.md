@@ -2,11 +2,9 @@
 
 - 📚 Fishing Engineer (2012) and PhD in Applied Statistics (2019);
 - 🔎 Researcher <a itemprop="sameAs" content="https://orcid.org/0000-0002-2134-2355" href="https://orcid.org/0000-0002-2134-2355" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a>
-, Data Analyst, Fisheries Statistician;
+, Data Analyst, Fisheries Statistician & Front-end dev;
 - 📈 R language instructor;
 - 🌎 Speaking languages: Portuguese (native), English (intermediate), and Spanish (intermediate);
-- 👨‍💻 Software development student since 2022;
-- 🌱 I’m currently learning JavaScript, HTML and CSS;
 - 🐶🐱 Pet lover, 🕹️ Blockchain games player, and 🎧 Progressive rock fan.
 
 
@@ -21,6 +19,8 @@
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 
 <h3> 🤝🏻 Find Me </h3>

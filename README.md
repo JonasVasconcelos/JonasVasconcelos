@@ -2,9 +2,9 @@
 
 - 📚 Fishing Engineer (2012) and PhD in Applied Statistics (2019);
 - 🔎 Researcher <a itemprop="sameAs" content="https://orcid.org/0000-0002-2134-2355" href="https://orcid.org/0000-0002-2134-2355" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a>
-, Data Analyst, Fisheries Statistician & Front-end dev;
+, Data Analyst, Fisheries Statistician & Full-Stack dev;
 - 📈 R language instructor;
-- 🌎 Speaking languages: Portuguese (native), English (intermediate), and Spanish (intermediate);
+- 🌎 Speaking languages: Portuguese (native), English (advanced), and Spanish (intermediate);
 - 🐶🐱 Pet lover, 🕹️ Blockchain games player, and 🎧 Progressive rock fan.
 
 
